@@ -1,0 +1,1 @@
+可以在网上搜索"台大 李宏毅 深度学习入门",有相应的视频和课程ppt.  和Michael Nielsen的Neural Networks and Deep Learning一样,是一份很不错的入门资料.
